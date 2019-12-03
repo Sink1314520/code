@@ -1,0 +1,14 @@
+
+\squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ìÒÆÜþÿÿÿÿ
+fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢þÿÿÿÿ
+esquid:S4488'"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(’°¶Û
+\squid:S46842"@Replace this persistent entity with a simple POJO or DTO object.(ñþ¹êøÿÿÿÿ
+_squid:S44881"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(õ²ÔÅ
+_squid:S4488;"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+dsquid:S4488E"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»ìÊûüÿÿÿÿ
+fsquid:S4488P"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(üíÁÔùÿÿÿÿ
+fsquid:S4488^"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"( ÒË³þÿÿÿÿ
+dsquid:S4488i"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(û¡ÔÇüÿÿÿÿ
+bsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(Ú›©
+bsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(Ú›©
+bsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(Ú›©

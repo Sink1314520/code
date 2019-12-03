@@ -1,0 +1,11 @@
+
+^squid:S1192™"FDefine a constant instead of duplicating this literal "state" 3 times.(¾ÖÑ¼
+bsquid:S1192”"JDefine a constant instead of duplicating this literal "labelname" 3 times.(”öÝƒ
+~squid:S1488€"aImmediately return this expression instead of assigning it to the temporary variable "labelList".(ÉøœÓúÿÿÿÿ
+Psquid:S2589"8Remove this expression which always evaluates to "false"(ùæ°õ
+Ssquid:S3655K"7Call "Optional#isPresent()" before accessing the value.(»šŽ®ùÿÿÿÿ
+@squid:S1604Š"(Make this anonymous inner class a lambda(ÛÒêÇ
+Vsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ùæ°õ
+bsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(—ÌïŽ
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(Š’þ°úÿÿÿÿ
+hsquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(–µ¤Ôýÿÿÿÿ
